@@ -1,8 +1,3 @@
-
-
-
-
-
 # hacer un programa que lea una cadena y que muestre en pantalla
 # cuantos numeros tiene, cuantas mayusculas, cuantas minusculas 
 # y cuantos espacios

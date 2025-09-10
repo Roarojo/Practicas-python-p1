@@ -1,6 +1,3 @@
-
-
-
 a = [10] #arreglo
 b = [] #Lista
 

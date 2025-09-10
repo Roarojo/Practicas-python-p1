@@ -1,6 +1,3 @@
-
-
-
 # # instrucciones de entrada y salida
 # # print() o print(f)
 # print('Hola mundo')

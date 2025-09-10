@@ -1,6 +1,3 @@
-
-
-
 # int a = 0;
 
 # print('Escribe un numero')

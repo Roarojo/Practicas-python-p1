@@ -1,6 +1,3 @@
-
-
-
 def inicio():
     c =0
     while True:

@@ -1,8 +1,4 @@
 
-
-
-
-
 a = "hola mundo"
 
 print(a[0])

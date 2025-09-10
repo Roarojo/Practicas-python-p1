@@ -1,4 +1,3 @@
-
 # def validar(a):
 #     c = 0
 #     d = 0.0

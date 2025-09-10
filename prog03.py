@@ -1,4 +1,3 @@
-
 '''
 hacer un programa que lea 10 numeros y los almacene 
 en un arreglo
