@@ -1,4 +1,5 @@
-
+# Hacer un programa que lea un dato y si es digito lo almacene en un arreglo y si es 
+# una cadena lo almacene en una lista.
 
 def resultados():
     c2 = 0
